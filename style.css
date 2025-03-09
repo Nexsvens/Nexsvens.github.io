@@ -81,17 +81,3 @@ button {
 button:hover {
     background-color: darkblue;
 }
-
-.login-button {
-    display: block;
-    width: 100%;
-    text-align: center;
-    padding: 10px;
-    background-color: blue;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    font-size: 16px;
-    font-weight: bold;
-    transition: background 0.3s;
-}
